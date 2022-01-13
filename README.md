@@ -99,6 +99,13 @@ System.out.println("Hello World");
 
 ![visual studio code logo](python.png "python logo")
 
+![Data](https://static.platzi.com/media/learningpath/banners/1c4f4add-87b9-44cc-ba30-4a8a134bf76e.jpg)
+
+<!-- imagenes con enlace o link -->
+[![Slack Badge](https://static.platzi.com/media/achievements/badges-comunicacion-slack-60710bd2-a4fd-49e6-86af-bb12ed8e7417.png)][url-curso-slack]
+[![Escritura Online Badge](https://static.platzi.com/media/achievements/badge-escritura-online-1-ad291a75-10e8-426e-841d-fe66e340ccb6.png)][url-curso-escritura]
+[![Casco astronauta animado](https://i.imgur.com/b1kbwbR.gif)][url-platzi]
+
 <!-- GITHUB MARKDOWN toDolist -->
 * [x] TASK 1
 * [ ] TASK 2
@@ -221,3 +228,38 @@ $$\int \frac{1}{x} dx = \ln \left| x \right| + C$$
 $$\sqrt{x+\frac{1}{2}}$$
 
 $$\frac{d}{dx}\left(x^2\right) = 2x$$
+
+
+<!-- mas listas ordenadas para indices -->
+1. ‘Volver al futuro’ ('Back to the Future')
+   1. Parte 1.
+   1. Parte 2
+1. ‘Primer’
+1. ‘Midnight in Paris’
+1. ‘Predestination’
+1. ‘Guia del autoestopista intergalactico’
+1. ‘Interstellar’
+1. ‘Fringe’ (Serie TV)
+1. ‘Eureka’ (Serie TV)
+1. ‘Vengadores: Endgame’ ('Avengers: Endgame')
+1. ‘Doce Monos’ ('12 Monkeys')
+
+
+<!-- colores -->
+![](https://via.placeholder.com/96x35/606164/fff?text=+) ![](https://via.placeholder.com/96x35/98ca3f/fff?text=+) ![](https://via.placeholder.com/96x35/33b13a/fff?text=+) ![](https://via.placeholder.com/96x35/6b407e/fff?text=+) ![](https://via.placeholder.com/96x35/29b8e8/fff?text=+) ![](https://placehold.it/96x35/f5c443/fff?text=+) ![](https://via.placeholder.com/96x35/fa7800/fff?text=+) ![](https://via.placeholder.com/96x35/cb161d/fff?text=+) ![](https://placehold.it/96x35/98ca3f/fff?text=+)
+
+<!-- variables temporales -->
+[imagencasco]: https://i.imgur.com/b1kbwbR.gif "Casco Astronauta"
+
+![imagencasco]
+
+La imagen se ha definido en una variable y la variable se reutiliza según arriba y abajo de este parrafo.
+
+![imagencasco]
+
+<!-- comentarios ocultos -->
+
+2 Renglón anterior al comentario
+
+[//]: # (Este comentario sera añadido al repositorio pero no sera mostrado al visitante al ser renderizado.)
+Renglón siguiente al comentario
