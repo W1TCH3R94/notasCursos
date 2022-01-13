@@ -108,3 +108,6 @@ System.out.println("Hello World");
 [![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
 
 [![Everything Is AWESOME](http://i.imgur.com/Ot5DWAW.png)](https://youtu.be/StTqXEQ2l-Y?t=35s "Everything Is AWESOME")
+
+<!-- Gif's -->
+![Wtf](https://media.giphy.com/media/NaxKt9aSzAspO/giphy.gif)
