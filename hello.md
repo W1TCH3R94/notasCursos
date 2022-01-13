@@ -84,7 +84,9 @@ System.out.println("Hello World");
 ![visual studio code logo](python.png "python logo")
 
 <!-- GITHUB MARKDOWN -->
-* [X] TASK 1
-* [] TASK 2
-* [] TASK 3
-* [] TASK 4
+* [x] TASK 1
+* [ ] TASK 2
+* [ ] TASK 3
+* [x] TASK 4
+
+:smiley: :purple_heart: :+1:
