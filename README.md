@@ -28,6 +28,8 @@ __Este texto también aparecerá en negrilla__
 
 _También **puedes** combinarlos_
 
+- [ ] \(Si vas a incluir paréntesis después de corchetes cuadrados) será necesario escapar el primer paréntesis
+
 <!-- ul -->
 * apple
     * apple 2
@@ -48,6 +50,8 @@ _También **puedes** combinarlos_
 
 <!-- Quotes -->
 > this is a quote
+
+> ## _**«Hay que tener la mente abierta. Pero no tanto como para que se te caiga el cerebro».**_ - Richard Feynman.
 
 <!-- lines -->
 ---
