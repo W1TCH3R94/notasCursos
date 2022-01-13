@@ -90,3 +90,7 @@ System.out.println("Hello World");
 * [x] TASK 4
 
 :smiley: :purple_heart: :+1:
+
+![Wtf](https://media.giphy.com/media/aZ3LDBs1ExsE8/giphy.gif)
+
+@[youtube]( hJgJTTIbMDI|https://www.youtube.com/watch?v=hJgJTTIbMDI)
