@@ -1,3 +1,4 @@
+![Data](https://static.platzi.com/media/achievements/badge-fundamentos-de-bases-de-datos-cc5eff2a-a7e0-4110-af5d-a47b628611da.png)
 # Fundamentos de Bases de Datos
 
 ## ___Clase 1___
@@ -40,4 +41,13 @@ ___
 
 ## ___Clase 2___
 
-### **Historia de las bases de datos:**
+### **Historia de las RDB(Bases de Datos Relacionales):**
+
+Las bases de datos surgen de la necesidad de conservar la información más allá de lo que existe en la memoria RAM. Algunas bases de datos iniciales fueron basadas en archivos eran datos guardados en texto plano, fáciles de guardar, pero muy difíciles de consultar y por la necesidad de mejorar esto nacen las bases de datos relacionales. Su inventor Edgar Codd dejó ciertas reglas para asegurarse de que toda la filosofía de las bases de datos no se perdiera, estandarizando el proceso.
+
+*[Las 12 reglas de Codd del modelo relacional.](https://www.mindmeister.com/es/1079684487/las-12-reglas-de-codd-del-modelo-relacional?fullscreen=1#)*
+___
+
+## ___Clase 3___
+
+### **Entidades y atributos:**
