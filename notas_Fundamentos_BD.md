@@ -51,3 +51,37 @@ ___
 ## ___Clase 3___
 
 ### **Entidades y atributos:**
+
+Una ***entidad*** es algo similar a un objeto (programación orientada a objetos) y representa algo en el mundo real, incluso algo abstracto. Tienen atributos que son las cosas que los hacen ser una entidad y por convención se ponen en plural, para representarlo gráficamente se encierra en un cuadrado.
+
+**Entidades fuertes:** son entidades que pueden sobrevivir por sí solas.
+
+**Entidades débiles:** no pueden existir sin una entidad fuerte y se representan con un cuadrado con doble línea.
+
+* Identidades débiles por identidad: no se diferencian entre sí más que por la clave de su identidad fuerte.
+
+* Identidades débiles por existencia: se le da su propio ID para diferenciarse de la entidad fuerte.
+
+***Atributo:*** Las entidades poseen atributos, estos se ligan a la entidad y se representan con un círculo.
+
+* Atributos multivaluado: Significa que es un atributo que tiene múltiples valores; Se representan encerrándolos en un doble círculo.
+
+* Atributo compuesto: Se puede dividir en subpartes es decir, de él salen otros atributos.
+
+* Atributo especial o derivados: Su valor se puede obtener a partir de valores de otros atributos. Se encierra en un óvalo punteado.
+
+    * Los atributos llave tienen características o propiedades únicas de la entidad, lo que lo diferencia de los demás. Existen:
+
+        * Llave natural: son inherentes al objeto como el número de serie.
+
+        * Llave artificial: No son partes de la entidad y se les asignan de manera arbitraria para facilitar el manejo de la información.
+
+![Data](https://static.platzi.com/media/user_upload/ENTIDAD%20LAPTOPS-4910405e-b261-44c6-9193-a68d85a92541.jpg)
+
+*[Modelo entidad - relación ](https://www.youtube.com/watch?v=l5PDQtUVye8 "MODELO ENTIDAD - RELACIÓN (CONCEPTOS BÁSICOS)")*
+
+___
+
+## ___Clase 4___
+
+### **:**
