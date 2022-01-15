@@ -26,7 +26,7 @@
 | Ir al último dato de una columna           | `Ctrl + flecha abajo`|
 | Ir al último dato de una fila              | `Ctrl + flecha derecha`|
 
-### **Consultas por buscarv:**
+### **Consultas por buscarv y fijar valores:**
 
 Use BUSCARV cuando necesite encontrar elementos en una tabla o un rango por fila. Por ejemplo, puede buscar el precio de una pieza de automóvil por el número de pieza o buscar el nombre de un empleado en función de su Id. de empleado.
 
@@ -36,7 +36,7 @@ En su forma más simple, la función BUSCARV indica lo siguiente:
 
 *[Función BUSCARV](https://support.microsoft.com/es-es/office/funci%c3%b3n-buscarv-0bbc8083-26fe-4963-8ab8-93a18ad188a1?ui=es-es&rs=es-es&ad=es)*
 
-### **Fijar valores:**
+#### **Fijar valores:**
 
 Representado por el símbolo $, nos ayuda a fijar ya sea una columna o fila.
 * Fijar Columna ($A): esto hace que la formula tome información de diferentes filas sin alterar la información de una columna en especial.
