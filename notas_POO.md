@@ -198,19 +198,4 @@ La modularidad de nuestro código nos va a permitir:
 
 ***«Cuando detecto características y comportamientos iguales, entonces significa que debo realizar una abstracción»*** con herencia. La herencia nos permite crear nuevas clases a partir de otras, se basa en modelos y conceptos de la vida real. También tenemos una jerarquía de padre e hijo.
 
-
-```plantuml
-@startuml
-    skinparam backgroundColor #EEEBDC
-    skinparam handwritten true
-    actor Customer
-    Customer -> "login()" : username & password
-    "login()" -> Customer : session token
-    activate "login()"
-    Customer -> "placeOrder()" : session token, order info
-    "placeOrder()" -> Customer : ok
-    Customer -> "logout()"
-    "logout()" -> Customer : ok
-    deactivate "login()"
-@enduml
-```
+![Class Diagram](http://www.plantuml.com/plantuml/proxy?src=https://raw.githubusercontent.com/Zingam/Markdown-Document-UML-Use-Test/master/UML/Instance.puml)
