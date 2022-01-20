@@ -198,4 +198,4 @@ La modularidad de nuestro código nos va a permitir:
 
 ***«Cuando detecto características y comportamientos iguales, entonces significa que debo realizar una abstracción»*** con herencia. La herencia nos permite crear nuevas clases a partir de otras, se basa en modelos y conceptos de la vida real. También tenemos una jerarquía de padre e hijo.
 
-![Class Diagram](http://www.plantuml.com/plantuml/proxy?src=https://raw.githubusercontent.com/Zingam/Markdown-Document-UML-Use-Test/master/UML/Instance.puml)
+![Data](https://i.imgur.com/odYQTXq.jpg)
