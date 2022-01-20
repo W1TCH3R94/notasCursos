@@ -199,3 +199,49 @@ La modularidad de nuestro código nos va a permitir:
 ***«Cuando detecto características y comportamientos iguales, entonces significa que debo realizar una abstracción»*** con herencia. La herencia nos permite crear nuevas clases a partir de otras, se basa en modelos y conceptos de la vida real. También tenemos una jerarquía de padre e hijo.
 
 ![Data](https://i.imgur.com/odYQTXq.jpg)
+
+## ___Objetos, método constructor y su sintaxis en código:___
+
+Los objetos nos ayudan a crear instancia de una clase, el objeto es el resultado de lo que modelamos, de los parámetros declarados y usaremos los objetos para que nuestras clases cobren vida.
+
+### ***Java:***
+```java
+Person juan = new Person();
+```
+### ***Python:***
+```python
+persona = Person()
+```
+### ***JavaScript:***
+```javaScript
+const person = new Person();
+```
+### ***PHP:***
+```php
+$person = new Person();
+```
+Los métodos constructores dan un estado inicial al objeto y podemos añadirle algunos datos al objeto mediante estos métodos. Los atributos o elementos que pasemos a través del constructor serán los datos mínimos que necesita el objeto para que pueda vivir.
+
+### ***Java:***
+```java
+public Person(String name){
+    this.name = name;
+}
+```
+### ***Python:***
+```python
+def __init__(self,name):
+    self.name = name
+```
+### ***JavaScript:***
+```javaScript
+function Person(name){
+    this.name = name
+}
+```
+### ***PHP:***
+```php
+public function __construct($name) {
+    $this->name = name;
+}
+```
