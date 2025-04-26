@@ -4,9 +4,13 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="SD1OdpLJb4vjs_2V6Wb9-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.671;exitY=1.01;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitPerimeter=0;" parent="1" source="SD1OdpLJb4vjs_2V6Wb9-2" target="SD1OdpLJb4vjs_2V6Wb9-6" edge="1">
+        <mxCell id="SD1OdpLJb4vjs_2V6Wb9-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.807;exitY=0.908;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitPerimeter=0;" parent="1" source="SD1OdpLJb4vjs_2V6Wb9-2" target="SD1OdpLJb4vjs_2V6Wb9-6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="560" y="360" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="460" y="390" />
+              <mxPoint x="740" y="390" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="v6JWt-sbSDrWK-r_PbYJ-3" value="Envia notificaciones a los diferentes usuarios" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="SD1OdpLJb4vjs_2V6Wb9-16">
@@ -57,7 +61,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SD1OdpLJb4vjs_2V6Wb9-3" value="Empleado" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="SD1OdpLJb4vjs_2V6Wb9-3" value="Empleado o colaborador" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SD1OdpLJb4vjs_2V6Wb9-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" parent="1" source="SD1OdpLJb4vjs_2V6Wb9-4" target="SD1OdpLJb4vjs_2V6Wb9-2" edge="1">
@@ -93,12 +97,33 @@
             <mxPoint x="-19" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="v6JWt-sbSDrWK-r_PbYJ-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.287;entryY=0.946;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="SD1OdpLJb4vjs_2V6Wb9-5" target="SD1OdpLJb4vjs_2V6Wb9-2">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="v6JWt-sbSDrWK-r_PbYJ-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.287;entryY=0.946;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="SD1OdpLJb4vjs_2V6Wb9-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="170" y="420" as="sourcePoint" />
+            <mxPoint x="413.04999999999995" y="340" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="131" y="430" />
+              <mxPoint x="131" y="390" />
+              <mxPoint x="413" y="390" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="v6JWt-sbSDrWK-r_PbYJ-2" value="Configura el sistema, crea los permisos y roles de los usuarios" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="v6JWt-sbSDrWK-r_PbYJ-1">
+        <mxCell id="v6JWt-sbSDrWK-r_PbYJ-2" value="Crea y administra los roles de los usuarios" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="v6JWt-sbSDrWK-r_PbYJ-1">
           <mxGeometry x="-0.1753" relative="1" as="geometry">
-            <mxPoint x="-1" as="offset" />
+            <mxPoint x="39" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="v6JWt-sbSDrWK-r_PbYJ-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.103;entryY=0.767;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="SD1OdpLJb4vjs_2V6Wb9-5" target="SD1OdpLJb4vjs_2V6Wb9-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="70" y="350" />
+              <mxPoint x="354" y="350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="v6JWt-sbSDrWK-r_PbYJ-5" value="Configura y da mantenimiento al sistema" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="v6JWt-sbSDrWK-r_PbYJ-4">
+          <mxGeometry x="-0.1247" y="-2" relative="1" as="geometry">
+            <mxPoint x="56" y="-2" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
